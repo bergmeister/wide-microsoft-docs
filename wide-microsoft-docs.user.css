@@ -16,4 +16,10 @@
     body .modular-content-container {
         max-width: max-content;
     }
+    
+    /* Hide annoying 'Is this page helpful' dialogs in the bottom right corner */
+    body .rating.has-default-focus.rating-helpful-active {
+        visibility: hidden
+    }
+
 }
