@@ -1,6 +1,6 @@
 # Wide Microsoft Docs
 
-Show Microsoft Docs Pages from [docs.microsoft.com](https://docs.microsoft.com) with a maximized width.
+Show Microsoft Docs Pages from [docs.microsoft.com](https://docs.microsoft.com) with a maximized width. Also hides annoying `Is this page helpful` dialogs in the bottom right corner.
 
 # Installation
 
