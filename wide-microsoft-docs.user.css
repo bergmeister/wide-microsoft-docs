@@ -18,8 +18,9 @@
     }
     
     /* Hide annoying 'Is this page helpful' dialogs in the bottom right corner */
-    body .rating.has-default-focus.rating-helpful-active {
-        visibility: hidden
+    body .binary-rating {
+        visibility: hidden;
+        height: 0
     }
 
 }
