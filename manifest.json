@@ -1,0 +1,13 @@
+{
+  "manifest_version": 1.0.0.0
+ 
+  "name": "Wide Microsoft Docs",
+  "version": "1.0.0",
+  "description": "Show Microsoft Docs Pages from docs.microsoft.com with a maximized width.",
+ 
+  "content_scripts": [{
+    "css": ["wide-microsoft-docs.user.css"],
+    "matches": ["https://docs.microsoft.com/*"]
+  }]
+ 
+}
